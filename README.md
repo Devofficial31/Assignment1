@@ -24,3 +24,7 @@ This simple Python program prompts the user to enter their first and last name, 
 - Accepts user input for first name and last name.
 - Concatenates the names to form a full name.
 - Prints a warm welcome message using the full name.
+
+## How to Use
+
+Run the `Task2.py` file. It will prompt you to enter first name and last name, and then display the result.
